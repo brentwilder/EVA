@@ -1,4 +1,4 @@
-# EVA
+# Extreme Value Analysis (EVA) for San Diego daily rainfall
 Extreme Value Analysis code saved as EVA_SD.r   , Csv files are required to download for this analysis.
 
 ### This study used daily rainfall data located in San Diego, California
